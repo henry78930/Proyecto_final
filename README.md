@@ -1,5 +1,8 @@
 
 # 🏦 Bank Marketing — Análisis Exploratorio de Datos
+
+**Link**: https://proyectofinal-nxkdve6mwpqw9twrk26cxw.streamlit.app/
+
 ## Descripcion del Proyecto
 Explorar los factores que influyen en la aceptación de campañas de marketing de una institución financiera, cuya efectividad cayó del 12% al 8% en los últimos 6 meses. Esta herramienta permite un EDA interactivo sin modelado predictivo, orientado a decisiones comerciales basadas en evidencia.
 
@@ -18,4 +21,4 @@ El proyecto contiene los siguientes modulos:
 <img width="1240" height="622" alt="image" src="https://github.com/user-attachments/assets/77f66feb-8c10-4bc3-bec6-298c1c49c286" />
 
 
-**Link**: https://proyectofinal-nxkdve6mwpqw9twrk26cxw.streamlit.app/
+
